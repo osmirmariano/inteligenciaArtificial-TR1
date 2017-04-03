@@ -1,2 +1,2 @@
 # inteligenciaArtificial-TR1
-Implementação do algoritmo guloso
+Implementação do troco mínimo com algoritmo guloso
